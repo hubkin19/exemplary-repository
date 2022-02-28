@@ -1,3 +1,4 @@
 Exemplary_file_2
 
 Additional text 2
+Additional text from branch 1
