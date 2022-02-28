@@ -1,1 +1,3 @@
 Exemplary_file_3
+
+Additional text 3
