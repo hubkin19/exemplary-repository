@@ -1,2 +1,2 @@
 # exemplary-repository
-This is an exemplary repository that was created for Git exercising.
+This is an exemplary repository that has been created for Git exercising.
